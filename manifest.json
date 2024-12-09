@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "NotAB",
+  "description": "This is a basic 99math.com bot",
+  "version": "1.0",
+  "action": {
+    "default_popup": "src/notab.html",
+    "default_icon": "notab.png"
+  }
+}
