@@ -1,0 +1,19 @@
+{
+  "name": "notab",
+  "version": "1.0.0",
+  "description": "A simple 99math.com bot that does subtarction speed mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljp-projects/notab.git"
+  },
+  "author": "Lucas Plumb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ljp-projects/notab/issues"
+  },
+  "homepage": "https://github.com/ljp-projects/notab#readme"
+}
